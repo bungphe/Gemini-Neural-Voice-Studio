@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Neural Voice Studio",
+  "description": "Generate lifelike speech and multi-speaker conversations using Gemini 2.5's advanced Text-to-Speech capabilities.",
+  "requestFramePermissions": []
+}
